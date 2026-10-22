@@ -57,6 +57,10 @@ html {
 
     scroll-behavior: smooth;
 
+    -webkit-text-size-adjust: 100%;
+
+    text-size-adjust: 100%;
+
 }
 
 
@@ -1860,4 +1864,23 @@ footer {
 
 .certificate-card.reveal.visible:hover {
     transform: translateY(-6px);
+}
+
+
+/* Touch devices render the page at a fixed 1180px width (see viewport meta),
+   which makes 100vh huge. Use the same section height a desktop screen gets. */
+@media (pointer: coarse) {
+    .section {
+        width: var(--max-width);
+        min-height: 900px;
+    }
+}
+
+
+/* Phone only: bigger section headings (About Me, Contact Me, etc.).
+   Desktop and tablet are not affected. */
+@media (pointer: coarse) and (max-device-width: 600px) {
+    .section-heading h2 {
+        font-size: 80px;
+    }
 }

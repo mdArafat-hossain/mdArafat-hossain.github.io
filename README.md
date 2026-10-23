@@ -25,7 +25,7 @@ This website showcases my technical skills, academic background, projects and pr
 - Contact Information
 
 ## Live Portfolio
-mdarafat-hossain.github.io
+[mdarafat-hossain.github.io](https://mdarafat-hossain.github.io/)
 
 ## Contact
 - GitHub: (https://github.com/mdArafat-hossain)

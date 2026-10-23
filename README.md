@@ -28,8 +28,8 @@ This website showcases my technical skills, academic background, projects and pr
 [mdarafat-hossain.github.io](https://mdarafat-hossain.github.io/)
 
 ## Contact
-- GitHub: (https://github.com/mdArafat-hossain)
-- LinkedIn: https://www.linkedin.com/in/md-arafat-hossain-rizve/
-- Codeforces: https://codeforces.com/profile/Rizve145
+- GitHub: [mdArafat-hossain](https://github.com/mdArafat-hossain)
+- LinkedIn: [Md Arafat Hossain Rizve](https://www.linkedin.com/in/md-arafat-hossain-rizve/)
+- Codeforces: [Rizve145](https://codeforces.com/profile/Rizve145)
 - Email: mdarafathossainrizve.dev@gmail.com
 - Resume: - [View My Resume](files/Arafat_CV.pdf)
